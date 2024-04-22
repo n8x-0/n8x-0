@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </li>
 </ul>
 
-<h2>Tools, rFrameworks & Libraries</h2>
+<h2>Tools, Frameworks & Libraries</h2>
 <ul>
   <li>
     <img src="https://camo.githubusercontent.com/aeeb668e20e532aabd7f970663c6c4d2c0c96bf8b74481a7f18f3bff30912c0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465"/>
